@@ -36,7 +36,7 @@ The analyses confirmed that the parallelogram mechanism ensures a **stable, symm
 - images/ → CAD renders and simulation results
 
 ## 👤 Authors
-Developed by [Tommaso Savino](https://github.com/TommasoSavino) and [Francesco Savino](https://github.com/FrancescoSavino).  
+Developed by [Tommaso Savino](https://github.com/ItsTomSav) and [Francesco Savino](https://github.com/FrankSav80).  
 Master’s Degree in Automation Engineering, Politecnico di Bari.
 
 
