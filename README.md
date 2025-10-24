@@ -1,6 +1,3 @@
-<!-- # gear_gripper_solidworks
-Design, kinematic and static analysis of a parallelogram gripper mechanism in SolidWorks
--->
 # Parallelogram Gripper Design
 
 Design, kinematic, static analysis, and simulation of a gripper with a parallelogram mechanism, developed using SolidWorks and MATLAB.
